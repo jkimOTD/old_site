@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Contact"
     url: /year-archive/
+  - title: "Program Schedule"
+    url: /program-schedule/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
