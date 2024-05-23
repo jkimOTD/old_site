@@ -3,7 +3,7 @@ main:
   - title: "About Me"
     url: /about/
   - title: "Contact"
-    url: /year-archive/
+    url: /contact/
   - title: "Program Schedule"
     url: /program-schedule/
   # - title: "Sample Collections"
