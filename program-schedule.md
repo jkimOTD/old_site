@@ -3,3 +3,7 @@
 </p>
 
 [Click here to access zoom link](https://us05web.zoom.us/j/86744995505?pwd=29WITGHCRPYDFCXbdYaaAzJ4KGfMQi.1)
+
+Meeting ID: 867 4499 5505
+
+Passcode: 3HsCgi
