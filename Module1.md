@@ -6,4 +6,6 @@
   </iframe>
 </div>
 
+[Click here to take the pre-module knowledge check](https://forms.gle/i1GvF7vxFe7C3FySA)
+
 [Click here to take the post-module knowledge check](https://forms.gle/msZcdK3EDeMQ2P1DA)
