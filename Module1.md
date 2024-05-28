@@ -5,4 +5,5 @@
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGGYfTVDFU&#x2F;2okhskRT1PITlyavT1AAOA&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGGYfTVDFU&#x2F;2okhskRT1PITlyavT1AAOA&#x2F;view?utm_content=DAGGYfTVDFU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Minimalist Beige Cream Brand Proposal Presentation</a> by Judy
+
+[Click here to take the post-module knowledge check](https://forms.gle/msZcdK3EDeMQ2P1DA)
