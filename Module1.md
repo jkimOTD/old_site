@@ -8,7 +8,7 @@
 
 [Click here to take the pre-module knowledge check](https://forms.gle/i1GvF7vxFe7C3FySA)
 
-<a href="https://forms.gle/i1GvF7vxFe7C3FySA" target="_blank">Click here to take the pre-module knowledge check</a>
+<a href="https://forms.gle/i1GvF7vxFe7C3FySA" onclick="window.open(this.href); return false;">Click here to take the pre-module knowledge check</a>
 
 [Click here to take the post-module knowledge check](https://forms.gle/msZcdK3EDeMQ2P1DA)
 <a href="URL" target="_blank">Text</a>
