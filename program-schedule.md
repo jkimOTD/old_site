@@ -2,10 +2,8 @@
   <img src="https://raw.githubusercontent.com/jkimOTD/jkimOTD.github.io/master/assets/images/weekly%20schedule.png" style="width: 35%;">
 </p>
 
-[Click here to access RingCentral link](https://meetings.ringcentral.com/j/1463118509?pwd=MWtPenhuTDNHMnVrUzVOdFhwaTNWZz09)
+Zoom Class Wednesdays @ 8pm CST:
 
-Meeting ID: 146 311 8509
+Meeting ID: 843 940 0168
 
-Password: Flute
-
-Meeting Time: Wednesdays @ 8 pm CST
+Password: 1020
