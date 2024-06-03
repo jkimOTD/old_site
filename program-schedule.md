@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jkimOTD/jkimOTD.github.io/master/assets/images/zoom%20lesson%20schedule1.png" style="width: 35%;">
+  <img src="https://raw.githubusercontent.com/jkimOTD/jkimOTD.github.io/master/assets/images/weekly%20schedule.png" style="width: 35%;">
 </p>
 
-[Click here to access zoom link](https://us05web.zoom.us/j/86744995505?pwd=29WITGHCRPYDFCXbdYaaAzJ4KGfMQi.1)
+[Click here to access RingCentral link](https://meetings.ringcentral.com/j/1463118509?pwd=MWtPenhuTDNHMnVrUzVOdFhwaTNWZz09)
 
-Meeting ID: 867 4499 5505
+Meeting ID: 146 311 8509
 
-Passcode: 3HsCgi
+Password: Flute
+
+Meeting Time: Wednesdays @ 8 pm CST
