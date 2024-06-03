@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jkimOTD/jkimOTD.github.io/master/assets/images/weekly%20schedule.png" style="width: 35%;">
+  <img src="https://raw.githubusercontent.com/jkimOTD/jkimOTD.github.io/master/assets/images/weekly%20schedule.png" style="width: 25%;">
 </p>
 
 Zoom Class Wednesdays @ 8pm CST:
