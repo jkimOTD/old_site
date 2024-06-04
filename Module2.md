@@ -69,20 +69,9 @@
 
 
     <script>
-        function checkPassword() {
-            const enteredPassword = document.getElementById("password-input").value;
-            const correctPassword = "yourpassword"; // Set your password here
-
-            if (enteredPassword === correctPassword) {
-                document.getElementById("locked-section").style.display = "block";
-                document.getElementById("password-section").style.display = "none";
-            } else {
-                alert("Incorrect password. Please try again.");
-            }
-        }
             document.addEventListener("DOMContentLoaded", function() {
             // Set the time when the section should be unlocked (UTC time)
-            const unlockTime = new Date(Date.UTC(2024, 5, 4, 18, 0, 0)).getTime();
+            const unlockTime = new Date("June 4, 2024 18:00:00").getTime();
 
             // Function to check the current time and unlock the section if the time has come
             function checkTime() {
@@ -99,6 +88,18 @@
 
             // Start checking the time
             checkTime();
+
+        function checkPassword() {
+            const enteredPassword = document.getElementById("password-input").value;
+            const correctPassword = "yourpassword"; // Set your password here
+
+            if (enteredPassword === correctPassword) {
+                document.getElementById("locked-section").style.display = "block";
+                document.getElementById("password-section").style.display = "none";
+            } else {
+                alert("Incorrect password. Please try again.");
+            }
+        }
         });
     </script>
 </body>
