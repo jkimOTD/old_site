@@ -20,19 +20,17 @@
         }
         .responsive-iframe {
             position: absolute;
-            width: 70%;
-            height: 70%;
+            width: 100%; /* Make iframe take the full width of its container */
+            height: 100%; /* Make iframe take the full height of its container */
             top: 0;
-            left: 50%;
-            transform: translateX(-50%);
+            left: 0;
             border: none;
             padding: 0;
             margin: 0;
         }
         @media only screen and (max-width: 600px) {
-            .responsive-iframe {
-                width: 90%; /* Adjust width for smaller screens */
-                height: 90%; /* Adjust height for smaller screens */
+            .responsive-iframe-container {
+                padding-top: 75%; /* Adjust aspect ratio for mobile */
             }
         }
     </style>
@@ -40,9 +38,10 @@
 <body>
     <div class="responsive-iframe-container">
         <iframe loading="lazy" class="responsive-iframe" src="https://www.canva.com/design/DAGGYfTVDFU/2okhskRT1PITlyavT1AAOA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
-
+    </div>
 </body>
 </html>
+
 
 </div>
 
