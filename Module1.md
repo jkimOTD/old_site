@@ -20,17 +20,19 @@
         }
         .responsive-iframe {
             position: absolute;
-            width: 100%; /* Make iframe take the full width of its container */
-            height: 100%; /* Make iframe take the full height of its container */
-            top: 0;
-            left: 0;
+            width: 80%; /* Default width for desktop and fullscreen mode */
+            height: 80%; /* Default height for desktop and fullscreen mode */
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
             border: none;
             padding: 0;
             margin: 0;
         }
         @media only screen and (max-width: 600px) {
-            .responsive-iframe-container {
-                padding-top: 75%; /* Adjust aspect ratio for mobile */
+            .responsive-iframe {
+                width: 90%; /* Adjust width for smaller screens */
+                height: 90%; /* Adjust height for smaller screens */
             }
         }
     </style>
@@ -41,6 +43,7 @@
     </div>
 </body>
 </html>
+
 
 
 
