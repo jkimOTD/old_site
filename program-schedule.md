@@ -22,9 +22,15 @@
 </body>
 </html>
 
+<div style="text-align: center;">
 
 Zoom Class Wednesdays @ 8pm CST:
 
 Meeting ID: 843 940 0168
 
 Password: 1020
+
+</div>
+
+
+
