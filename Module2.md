@@ -45,7 +45,9 @@
     </style>
 </head>
 <body>
-  
+
+
+<div id="placeholder-section">  
     <div id="password-section">
         <p>Enter password: </p>
         <input type="password" id="password-input" placeholder="Enter password">
@@ -57,10 +59,14 @@
             <iframe loading="lazy" class="responsive-iframe" src="https://www.canva.com/design/DAGGYfTVDFU/2okhskRT1PITlyavT1AAOA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
         </div>
     </div>
-  
-    <div id="placeholder-section">
-        <p>This section is visible until the available time.</p>
-    </div>
+</div>  
+
+<div id="locked-section">
+        <div class="responsive-iframe-container">
+            <iframe loading="lazy" class="responsive-iframe" src="https://www.canva.com/design/DAGGYfTVDFU/2okhskRT1PITlyavT1AAOA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
+</div>
+
+
 
     <script>
         function checkPassword() {
@@ -74,6 +80,26 @@
                 alert("Incorrect password. Please try again.");
             }
         }
+            document.addEventListener("DOMContentLoaded", function() {
+            // Set the time when the section should be unlocked (UTC time)
+            const unlockTime = new Date(Date.UTC(2024, 5, 4, 18, 0, 0)).getTime();
+
+            // Function to check the current time and unlock the section if the time has come
+            function checkTime() {
+                const currentTime = new Date().getTime();
+
+                if (currentTime >= unlockTime) {
+                    document.getElementById("locked-section").style.display = "block";
+                    document.getElementById("placeholder-section").style.display = "none";
+                } else {
+                    // Check the time again after 1 second
+                    setTimeout(checkTime, 1000);
+                }
+            }
+
+            // Start checking the time
+            checkTime();
+        });
     </script>
 </body>
 </html>
