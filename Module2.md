@@ -71,7 +71,7 @@
     <script>
         document.addEventListener("DOMContentLoaded", function() {
             // Set the time when the section should be unlocked
-            const unlockTime = new Date("June 4, 2024 18:00:00").getTime();
+            const unlockTime = new Date("June 4, 2024 15:28:00").getTime();
 
             // Function to check the current time and unlock the section if the time has come
             function checkTime() {
