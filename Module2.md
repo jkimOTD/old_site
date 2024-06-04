@@ -53,7 +53,7 @@
     </div>
     <div id="locked-section">
         <div class="responsive-iframe-container">
-            <iframe loading="lazy" class="responsive-iframe" src="https://www.canva.com/design/DAGGYfTVDFU/2okhskRT1PITlyavT1AAOA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
+            <iframe loading="lazy" class="responsive-iframe" src="https://www.canva.com/design/DAGGjTzX6Xw/qkMmK001fgVaqK_Q3bpadA/view" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
         </div>
     </div>
     <script>
