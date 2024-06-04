@@ -88,7 +88,8 @@
 
             // Start checking the time
             checkTime();
-
+    </script>
+    <script>
         function checkPassword() {
             const enteredPassword = document.getElementById("password-input").value;
             const correctPassword = "yourpassword"; // Set your password here
