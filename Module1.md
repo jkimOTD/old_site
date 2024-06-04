@@ -43,7 +43,6 @@
 </html>
 
 
-</div>
 
 [Click here to take the pre-module knowledge check](https://forms.gle/i1GvF7vxFe7C3FySA)
 
