@@ -92,3 +92,4 @@
 </html>
 
 [Click here to take the pre-module knowledge check](https://forms.gle/iZ6csX2B61TStuqVA)
+[Click here to take the post-module knowledge check](https://forms.gle/JvQD3g5iVhB9Zujd6)
