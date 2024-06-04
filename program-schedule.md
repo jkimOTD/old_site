@@ -6,7 +6,7 @@
     <title>Responsive Image</title>
     <style>
         .responsive-image {
-            width: 25%;
+            width: 30%;
         }
         @media only screen and (max-width: 600px) {
             .responsive-image {
