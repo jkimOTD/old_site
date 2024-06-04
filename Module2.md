@@ -59,7 +59,7 @@
     <script>
         document.addEventListener("DOMContentLoaded", function() {
             // Set the time when the section should be unlocked
-            const unlockTime = new Date("June 4, 2024 15:38:00").getTime();
+            const unlockTime = new Date("June 12, 2024 19:00:00").getTime();
 
             // Function to check the current time and unlock the section if the time has come
             function checkTime() {
@@ -78,7 +78,7 @@
 
         function checkPassword() {
             const enteredPassword = document.getElementById("password-input").value;
-            const correctPassword = "yourpassword"; // Set your password here
+            const correctPassword = "flute"; // Set your password here
 
             if (enteredPassword === correctPassword) {
                 document.getElementById("locked-section").style.display = "block";
