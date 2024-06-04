@@ -102,7 +102,6 @@
                 alert("Incorrect password. Please try again.");
             }
         }
-        });
     </script>
 </body>
 </html>
