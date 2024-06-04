@@ -69,8 +69,8 @@
 
 
     <script>
-            document.addEventListener("DOMContentLoaded", function() {
-            // Set the time when the section should be unlocked (UTC time)
+        document.addEventListener("DOMContentLoaded", function() {
+            // Set the time when the section should be unlocked
             const unlockTime = new Date("June 4, 2024 18:00:00").getTime();
 
             // Function to check the current time and unlock the section if the time has come
@@ -88,6 +88,7 @@
 
             // Start checking the time
             checkTime();
+        });
     </script>
     <script>
         function checkPassword() {
