@@ -90,3 +90,5 @@
     </script>
 </body>
 </html>
+
+[Click here to take the pre-module knowledge check](https://forms.gle/iZ6csX2B61TStuqVA)
