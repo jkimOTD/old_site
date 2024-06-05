@@ -24,9 +24,11 @@
 
 <div style="text-align: center;">
 
-Zoom Class Wednesdays @ 8 pm CST: <br>
+Zoom Class Wednesdays @ 8 pm CST: <be>
 
-Meeting ID: 843 940 0168 <br>
+https://us06web.zoom.us/j/89419612172?pwd=mK72vVSfB6S8BzMqkREmAzXUJy5Bqv.1 <be>
 
-Password: 1020 <br>
+Meeting ID: 894 1961 2172 <br>
+
+Password: 303578 <br>
 </div>
