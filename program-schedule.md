@@ -26,7 +26,7 @@
 
 Zoom Class Wednesdays @ 8 pm CST: <br>
 
-(Click here to access zoom link)[https://us06web.zoom.us/j/89419612172?pwd=mK72vVSfB6S8BzMqkREmAzXUJy5Bqv.1] <br>
+<a href="https://us06web.zoom.us/j/89419612172?pwd=mK72vVSfB6S8BzMqkREmAzXUJy5Bqv.1">Click here to access Zoom link</a>
 
 Meeting ID: 894 1961 2172 <br>
 
