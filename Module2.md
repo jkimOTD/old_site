@@ -55,10 +55,11 @@
         <div class="responsive-iframe-container">
             <iframe loading="lazy" class="responsive-iframe" src="https://www.canva.com/design/DAGGjTzX6Xw/qkMmK001fgVaqK_Q3bpadA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
         </div>
+        
+        <a href="https://forms.gle/iZ6csX2B61TStuqVA">Click here to take the pre-module knowledge check</a>
+            
+        <a href="https://forms.gle/JvQD3g5iVhB9Zujd6">Click here to take the post-module knowledge check</a>
 
-        [Click here to take the pre-module knowledge check](https://forms.gle/iZ6csX2B61TStuqVA)
-
-        [Click here to take the post-module knowledge check](https://forms.gle/JvQD3g5iVhB9Zujd6)
     </div>
     <script>
         document.addEventListener("DOMContentLoaded", function() {
