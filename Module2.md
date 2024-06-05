@@ -61,6 +61,12 @@
             // Set the time when the section should be unlocked
             const unlockTime = new Date("June 12, 2024 19:00:00").getTime();
 
+
+[Click here to take the pre-module knowledge check](https://forms.gle/iZ6csX2B61TStuqVA)
+
+[Click here to take the post-module knowledge check](https://forms.gle/JvQD3g5iVhB9Zujd6)
+
+
             // Function to check the current time and unlock the section if the time has come
             function checkTime() {
                 const currentTime = new Date().getTime();
@@ -90,7 +96,3 @@
     </script>
 </body>
 </html>
-
-[Click here to take the pre-module knowledge check](https://forms.gle/iZ6csX2B61TStuqVA)
-
-[Click here to take the post-module knowledge check](https://forms.gle/JvQD3g5iVhB9Zujd6)
