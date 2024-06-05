@@ -55,17 +55,15 @@
         <div class="responsive-iframe-container">
             <iframe loading="lazy" class="responsive-iframe" src="https://www.canva.com/design/DAGGjTzX6Xw/qkMmK001fgVaqK_Q3bpadA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
         </div>
+
+        [Click here to take the pre-module knowledge check](https://forms.gle/iZ6csX2B61TStuqVA)
+
+        [Click here to take the post-module knowledge check](https://forms.gle/JvQD3g5iVhB9Zujd6)
     </div>
     <script>
         document.addEventListener("DOMContentLoaded", function() {
             // Set the time when the section should be unlocked
             const unlockTime = new Date("June 12, 2024 19:00:00").getTime();
-
-
-[Click here to take the pre-module knowledge check](https://forms.gle/iZ6csX2B61TStuqVA)
-
-[Click here to take the post-module knowledge check](https://forms.gle/JvQD3g5iVhB9Zujd6)
-
 
             // Function to check the current time and unlock the section if the time has come
             function checkTime() {
