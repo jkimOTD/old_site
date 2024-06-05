@@ -17,7 +17,7 @@
 </head>
 <body>
     <p align="center">
-        <img src="https://raw.githubusercontent.com/jkimOTD/jkimOTD.github.io/master/assets/images/weekly%20schedule.png" class="responsive-image">
+        <img src="https://raw.githubusercontent.com/jkimOTD/jkimOTD.github.io/master/assets/images/weekly%20schedule%20final.png" class="responsive-image">
     </p>
 </body>
 </html>
