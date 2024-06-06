@@ -56,15 +56,15 @@
             <iframe loading="lazy" class="responsive-iframe" src="https://www.canva.com/design/DAGHY9Vhj7Y/IYCqGwZUwQnDW8zRzi-dxg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
         </div>
         
-        <a href="https://forms.gle/iZ6csX2B61TStuqVA">Click here to take the pre-module knowledge check</a><br> 
+        <a href="https://forms.gle/J4xwJpL6VPZ9zXD29">Click here to take the pre-module knowledge check</a><br> 
             
-        <a href="https://forms.gle/JvQD3g5iVhB9Zujd6">Click here to take the post-module knowledge check</a>
+        <a href="https://forms.gle/kGCJg8KbofVTRG496">Click here to take the post-module knowledge check</a>
 
     </div>
     <script>
         document.addEventListener("DOMContentLoaded", function() {
             // Set the time when the section should be unlocked
-            const unlockTime = new Date("June 12, 2024 19:00:00").getTime();
+            const unlockTime = new Date("July 10, 2024 19:00:00").getTime();
 
             // Function to check the current time and unlock the section if the time has come
             function checkTime() {
