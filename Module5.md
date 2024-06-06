@@ -55,7 +55,7 @@
             <iframe loading="lazy" class="responsive-iframe" src="https://www.canva.com/design/DAGHTBVLKI8/VUVyTustHXsfW5S-8NiDnw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
         </div>
         
-        <a href="https://forms.gle/HmiV2bmukZuUygkW7">Click here to take the pre-module survey</a><br> 
+        <a href="https://forms.gle/f4wN1JDzSyrV9MK98">Click here to take the pre-module survey</a><br> 
             
         <a href="https://forms.gle/ykqf4N7Kr2HXAPc88">Click here to take the post-module survey</a>
 
