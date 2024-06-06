@@ -56,9 +56,9 @@
             <iframe loading="lazy" class="responsive-iframe" src="https://www.canva.com/design/DAGHUOEF_ZM/_CGLsmUktx1cC_ev_XVBcg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
         </div>
         
-        <a href="https://forms.gle/MKNjSMjeBz2xHp7E9">Click here to take the pre-module survey</a><br> 
+        <a href="https://forms.gle/BpXXRQERKBgYPQou8">Click here to take the pre-module survey</a><br> 
             
-        <a href="https://forms.gle/GcszGfrr3t6rDbSb6">Click here to take the post-module survey</a>
+        <a href="https://forms.gle/xhsqWiFkQPutsSND7">Click here to take the post-module survey</a>
 
     </div>
     <script>
