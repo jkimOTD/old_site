@@ -56,9 +56,9 @@
             <iframe loading="lazy" class="responsive-iframe" src="https://www.canva.com/design/DAGHY9Vhj7Y/IYCqGwZUwQnDW8zRzi-dxg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen"></iframe>
         </div>
         
-        <a href="https://forms.gle/J4xwJpL6VPZ9zXD29">Click here to take the pre-module knowledge check</a><br> 
+        <a href="https://forms.gle/wxX3j2o6irCBaNoQ7">Click here to take the pre-module knowledge check</a><br> 
             
-        <a href="https://forms.gle/kGCJg8KbofVTRG496">Click here to take the post-module knowledge check</a>
+        <a href="https://forms.gle/h3mC45XLMKZFunuT9">Click here to take the post-module knowledge check</a>
 
     </div>
     <script>
